@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SpaceX ETL Pipeline
 
 Uma solução modular e reutilizável para extração, transformação e carregamento (ETL) de dados da API SpaceX para um banco de dados SQLite.
@@ -338,9 +337,3 @@ Para dúvidas ou sugestões sobre o projeto, consulte a documentação do códig
 ---
 
 Última atualização: Março 2026
-=======
-# S-pac-eCretary
-S(pac)eCretary is a robust RESTful backend service built with Java 17 and Spring Boot 3, designed to manage space exploration missions, interstellar vessels, and planetary destinations.
-
-This project was developed to demonstrate advanced knowledge in backend architecture, database relational modeling, and industry-standard clean code practices.
->>>>>>> ccb755e8dfab08995ce91de46ad5cc4e41419250
